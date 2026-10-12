@@ -1,0 +1,195 @@
+"descripcion": "Catálogo de referencia país→región→moneda para enriquecer el análisis de expansión",
+  "n_paises": 38,
+  "paises": [
+    {
+      "pais": "Australia",
+      "region": "Oceanía",
+      "moneda": "AUD"
+    },
+    {
+      "pais": "Austria",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Bahrain",
+      "region": "Medio Oriente",
+      "moneda": "BHD"
+    },
+    {
+      "pais": "Belgium",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Brazil",
+      "region": "Latinoamérica",
+      "moneda": "BRL"
+    },
+    {
+      "pais": "Canada",
+      "region": "Norteamérica",
+      "moneda": "CAD"
+    },
+    {
+      "pais": "Channel Islands",
+      "region": "Europa Occidental",
+      "moneda": "GBP"
+    },
+    {
+      "pais": "Cyprus",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Czech Republic",
+      "region": "Europa del Este",
+      "moneda": "CZK"
+    },
+    {
+      "pais": "Denmark",
+      "region": "Europa Nórdica",
+      "moneda": "DKK"
+    },
+    {
+      "pais": "EIRE",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "European Community",
+      "region": "Sin clasificar",
+      "moneda": null
+    },
+    {
+      "pais": "Finland",
+      "region": "Europa Nórdica",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "France",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Germany",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Greece",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Hong Kong",
+      "region": "Asia-Pacífico",
+      "moneda": "HKD"
+    },
+    {
+      "pais": "Iceland",
+      "region": "Europa Nórdica",
+      "moneda": "ISK"
+    },
+    {
+      "pais": "Israel",
+      "region": "Medio Oriente",
+      "moneda": "ILS"
+    },
+    {
+      "pais": "Italy",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Japan",
+      "region": "Asia-Pacífico",
+      "moneda": "JPY"
+    },
+    {
+      "pais": "Lebanon",
+      "region": "Medio Oriente",
+      "moneda": "LBP"
+    },
+    {
+      "pais": "Lithuania",
+      "region": "Europa del Este",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Malta",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Netherlands",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Norway",
+      "region": "Europa Nórdica",
+      "moneda": "NOK"
+    },
+    {
+      "pais": "Poland",
+      "region": "Europa del Este",
+      "moneda": "PLN"
+    },
+    {
+      "pais": "Portugal",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "RSA",
+      "region": "África",
+      "moneda": "ZAR"
+    },
+    {
+      "pais": "Saudi Arabia",
+      "region": "Medio Oriente",
+      "moneda": "SAR"
+    },
+    {
+      "pais": "Singapore",
+      "region": "Asia-Pacífico",
+      "moneda": "SGD"
+    },
+    {
+      "pais": "Spain",
+      "region": "Europa Occidental",
+      "moneda": "EUR"
+    },
+    {
+      "pais": "Sweden",
+      "region": "Europa Nórdica",
+      "moneda": "SEK"
+    },
+    {
+      "pais": "Switzerland",
+      "region": "Europa Occidental",
+      "moneda": "CHF"
+    },
+    {
+      "pais": "USA",
+      "region": "Norteamérica",
+      "moneda": "USD"
+    },
+    {
+      "pais": "United Arab Emirates",
+      "region": "Medio Oriente",
+      "moneda": "AED"
+    },
+    {
+      "pais": "United Kingdom",
+      "region": "Europa Occidental",
+      "moneda": "GBP"
+    },
+    {
+      "pais": "Unspecified",
+      "region": "Sin clasificar",
+      "moneda": null
+    }
+  ]
+}
